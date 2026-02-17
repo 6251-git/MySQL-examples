@@ -3,6 +3,7 @@ This repository contains some examples of work that I have done to show proficie
 
 <img width="725" height="542" alt="Screenshot 2026-01-15 144351" src="https://github.com/user-attachments/assets/125dddc6-2b66-4e13-adf5-c138035e4ba8" />
 
+
 This table is wirtten to show the top ten most populated cities in the world. I made sure to include the country code next to the city name  to make sure that viewer can see which country the city is located. The table is also orderd by population descending to ensure that the largest population is at the top.
 
 <img width="1165" height="824" alt="Screenshot 2026-01-15 145430" src="https://github.com/user-attachments/assets/72dab551-56c6-49e8-bf5d-fc66f2529f62" />
