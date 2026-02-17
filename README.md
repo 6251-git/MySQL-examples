@@ -21,6 +21,7 @@ This table is written to display the number of cities within the USA under a col
 
 
 <img width="312" height="305" alt="Screenshot 2026-01-15 152252" src="https://github.com/user-attachments/assets/d5fbd797-8880-448e-8b93-b3262d2af995" /> <img width="321" height="301" alt="Screenshot 2026-01-15 151841" src="https://github.com/user-attachments/assets/35b8981c-be06-4d55-b115-9a53611b0c15" />
+
 Two diffrent tables, one shows the most populated country in the world (China) and the other shows the least populated city in the world (Adamstown). 
 
 
